@@ -1,0 +1,8 @@
+[
+  { "id": "l1", "t": 1.2,  "voice": "am_adam", "speed": 0.94, "text": "June nineteen sixty-two. High above Alcatraz's cellblock, three inmates engineered an escape out of raincoats.", "asr": "June 1962. High above Alcatraz's cell block, three inmates engineered an escape out of raincoats." },
+  { "id": "l2", "t": 9.2,  "voice": "am_adam", "speed": 0.94, "text": "Over months, they stole more than fifty rubberized coats, cutting and stitching them into a six by fourteen foot hull.", "asr": "Over months, they stole more than 50 rubberized coats, cutting and stitching them into a 6 by 14 foot haul." },
+  { "id": "l3", "t": 16.0, "voice": "am_adam", "speed": 0.94, "text": "To seal the seams watertight, they clamped the rubber against hot prison steam pipes, vulcanizing the joints.", "asr": "To seal the seams watertight, they clamp the rubber against hot prison steam pipes, vulcanizing the joints." },
+  { "id": "l4", "t": 24.4, "voice": "am_adam", "speed": 0.94, "text": "For inflation, they converted a musical concertina into a hand-pumped bellows, driving air through a single red valve." },
+  { "id": "l5", "t": 32.8, "voice": "am_adam", "speed": 0.94, "text": "On the night of June eleventh, with hand-carved wooden paddles, they pushed off into San Francisco Bay.", "asr": "On the night of June 11th, with hand-carved wooden paddles, they pushed off into San Francisco Bay." },
+  { "id": "l6", "t": 40.2, "voice": "am_adam", "speed": 0.94, "text": "The raft held. By morning, only the tide remained." }
+]

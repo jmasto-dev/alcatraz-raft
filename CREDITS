@@ -1,0 +1,15 @@
+# Credits — Fifty Raincoats (The 1962 Alcatraz Escape Raft)
+
+## Fonts
+- Noto Serif (Bold), Google Fonts — SIL Open Font License 1.1 (OFL)
+
+## Voice
+- Kokoro-82M (`am_adam`) via `kokoro-onnx` — Apache 2.0
+
+## Music Samples (`core/audio/sampler.py`)
+- VSCO 2 Community Edition (cellos, cellos_pizz, horn, timpani) — CC0 1.0 Universal
+- Versilian Community Sample Library (vibraphone_bowed, woodblock) — CC0 1.0 Universal
+
+## Procedural Sound & Rendering
+- Three.js r170 — MIT License
+- Procedural foley & ambience (`core/audio/sfx.py`) — synthesized offline
